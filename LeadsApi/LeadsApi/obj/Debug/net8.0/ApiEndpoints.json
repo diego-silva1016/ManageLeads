@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "Leads.Api.Controllers.LeadController",
+    "Method": "RegisterLead",
+    "RelativePath": "api/lead",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Leads.Application.Commands.RegisterLeadCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Leads.Api.Controllers.LeadController",
+    "Method": "AcceptLead",
+    "RelativePath": "api/lead/accept",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Leads.Application.Commands.AcceptLeadCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Leads.Api.Controllers.LeadController",
+    "Method": "GetAcceptedLeads",
+    "RelativePath": "api/lead/accepted",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Leads.Api.Controllers.LeadController",
+    "Method": "DeclineLead",
+    "RelativePath": "api/lead/decline",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Leads.Application.Commands.DeclineLeadCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Leads.Api.Controllers.LeadController",
+    "Method": "GetInvitedLeads",
+    "RelativePath": "api/lead/invited",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

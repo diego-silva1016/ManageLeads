@@ -1,0 +1,85 @@
+.profile{
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 0.8rem;
+}
+
+.iconName {
+    border-radius: 50%;
+    background-color: orange;
+    color: #fff;
+    height: 3rem;
+    width: 3rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.profileInfo {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+
+    span {
+        color: rgb(145, 139, 139);
+    }
+}
+
+.infos {
+    margin: 0.8rem 0 0.8rem 0;
+
+    display: flex;
+    align-items: center;
+
+    color: rgb(145, 139, 139);
+}
+
+.description {
+    margin: 0.8rem 0 0.8rem 0;
+
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+
+    color: rgb(145, 139, 139);
+}
+
+.action {
+    display: flex;
+    align-items: center;
+
+    margin-top: 0.8rem ;
+
+    button {
+        border: none;
+        padding: 0.8rem;
+        border-radius: 4px;
+        margin-right: 0.8rem;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+        cursor: pointer;
+
+        &:hover{
+            opacity: 0.8;
+        }
+    }
+    span {
+        margin-left: 0.5rem;
+    }
+
+    strong {
+        margin-right: 0.2rem;
+    }
+}
+
+.contact {
+    margin-bottom: 1rem;
+
+    strong{
+        color: orange;
+    }
+}

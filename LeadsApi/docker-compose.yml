@@ -1,0 +1,21 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver_container
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "YourStrong!Passw0rd"
+      ACCEPT_EULA: "Y"
+      MSSQL_DATABASE: "ManageLeads"
+    restart: always
+
+  leads.api:
+    image: ${DOCKER_REGISTRY-}leadsapi
+    build:
+      context: .
+      dockerfile: LeadsApi/Dockerfile
+    depends_on:
+      - sqlserver
+
+

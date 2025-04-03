@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\infrastructure\\entities\\leadentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:infrastructure\\entities\\leadentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\infrastructure\\migrations\\20250403004615_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250403004615_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\leads.application\\handlers\\command\\registerleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\handlers\\command\\registerleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\infrastructure\\repositories\\leadsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\leadsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22E2E35-A368-42CE-937B-E83E6D7470FC}|Domain\\Leads.Domain.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\domain\\entities\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22E2E35-A368-42CE-937B-E83E6D7470FC}|Domain\\Leads.Domain.csproj|solutionrelative:domain\\entities\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\leads.application\\handlers\\query\\getacceptedleadsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\handlers\\query\\getacceptedleadsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\leads.application\\handlers\\query\\getinvitedleadsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\handlers\\query\\getinvitedleadsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8662A4E-445E-48F2-AAB9-B3D00C14A0A3}|LeadsApi\\Leads.Api.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\leadsapi\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8662A4E-445E-48F2-AAB9-B3D00C14A0A3}|LeadsApi\\Leads.Api.csproj|solutionrelative:leadsapi\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\leads.application\\dtos\\leaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\dtos\\leaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\leads.application\\handlers\\command\\acceptleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\handlers\\command\\acceptleadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\leads.application\\commands\\acceptleadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5617F2-7485-487A-8B2E-76FF628D1F7C}|Leads.Application\\Leads.Application.csproj|solutionrelative:leads.application\\commands\\acceptleadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8662A4E-445E-48F2-AAB9-B3D00C14A0A3}|LeadsApi\\Leads.Api.csproj|c:\\users\\diego\\source\\repos\\leadsapi\\leadsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8662A4E-445E-48F2-AAB9-B3D00C14A0A3}|LeadsApi\\Leads.Api.csproj|solutionrelative:leadsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\diego\\source\\repos\\leadsapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\diego\\source\\repos\\leadsapi\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\diego\\source\\repos\\leadsapi\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250403004615_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Migrations\\20250403004615_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250403004615_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Migrations\\20250403004615_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250403004615_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:51:56.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeadEntity.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Entities\\LeadEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\LeadEntity.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Entities\\LeadEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\LeadEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:51:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterLeadCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Handlers\\Command\\RegisterLeadCommandHandler.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Handlers\\Command\\RegisterLeadCommandHandler.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Handlers\\Command\\RegisterLeadCommandHandler.cs",
+              "RelativeToolTip": "Leads.Application\\Handlers\\Command\\RegisterLeadCommandHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:01:41.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAcceptedLeadsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Handlers\\Query\\GetAcceptedLeadsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Handlers\\Query\\GetAcceptedLeadsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Handlers\\Query\\GetAcceptedLeadsQueryHandler.cs",
+              "RelativeToolTip": "Leads.Application\\Handlers\\Query\\GetAcceptedLeadsQueryHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:33:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeadController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\LeadsApi\\Controllers\\LeadController.cs",
+              "RelativeDocumentMoniker": "LeadsApi\\Controllers\\LeadController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\LeadsApi\\Controllers\\LeadController.cs",
+              "RelativeToolTip": "LeadsApi\\Controllers\\LeadController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:29:09.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeadsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Repositories\\LeadsRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\LeadsRepository.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Repositories\\LeadsRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\LeadsRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:02:20.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lead.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Entities\\Lead.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Lead.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Entities\\Lead.cs",
+              "RelativeToolTip": "Domain\\Entities\\Lead.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:01:25.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeadDto.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\DTOs\\LeadDto.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\DTOs\\LeadDto.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\DTOs\\LeadDto.cs",
+              "RelativeToolTip": "Leads.Application\\DTOs\\LeadDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:31:43.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AcceptLeadCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Handlers\\Command\\AcceptLeadCommandHandler.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Handlers\\Command\\AcceptLeadCommandHandler.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Handlers\\Command\\AcceptLeadCommandHandler.cs",
+              "RelativeToolTip": "Leads.Application\\Handlers\\Command\\AcceptLeadCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:17:02.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetInvitedLeadsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Handlers\\Query\\GetInvitedLeadsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Handlers\\Query\\GetInvitedLeadsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Handlers\\Query\\GetInvitedLeadsQueryHandler.cs",
+              "RelativeToolTip": "Leads.Application\\Handlers\\Query\\GetInvitedLeadsQueryHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:46:51.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AcceptLeadCommand.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Commands\\AcceptLeadCommand.cs",
+              "RelativeDocumentMoniker": "Leads.Application\\Commands\\AcceptLeadCommand.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Commands\\AcceptLeadCommand.cs",
+              "RelativeToolTip": "Leads.Application\\Commands\\AcceptLeadCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:19:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\LeadsApi\\Program.cs",
+              "RelativeDocumentMoniker": "LeadsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\LeadsApi\\Program.cs",
+              "RelativeToolTip": "LeadsApi\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAADoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:42:05.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-03T02:22:41.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T02:22:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\LeadsApi\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\LeadsApi\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-03T02:22:33.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
