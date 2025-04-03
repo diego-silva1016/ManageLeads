@@ -7,8 +7,8 @@
 
 .iconName {
     border-radius: 50%;
-    background-color: orange;
-    color: #fff;
+    background-color: var(--primary-color);
+    color: var(--white-color);
     height: 3rem;
     width: 3rem;
 
@@ -24,7 +24,7 @@
     flex-direction: column;
 
     span {
-        color: rgb(145, 139, 139);
+        color: var(--text-color);
     }
 }
 
@@ -34,7 +34,7 @@
     display: flex;
     align-items: center;
 
-    color: rgb(145, 139, 139);
+    color: var(--text-color);
 }
 
 .description {
@@ -45,7 +45,7 @@
 
     flex-direction: column;
 
-    color: rgb(145, 139, 139);
+    color: var(--text-color);
 }
 
 .action {
@@ -80,6 +80,6 @@
     margin-bottom: 1rem;
 
     strong{
-        color: orange;
+        color: var(--primary-color);
     }
 }

@@ -142,3 +142,27 @@ Assunto: Lead Aceito
 Para: vendas@test.com,
 Assunto: Lead Aceito
 ====================
+[Email Simulado]
+Para: vendas@test.com,
+Assunto: Lead Aceito
+====================
+[Email Simulado]
+Para: vendas@test.com,
+Assunto: Lead Aceito
+====================
+[Email Simulado]
+Para: vendas@test.com,
+Assunto: Lead Aceito
+====================
+[Email Simulado]
+Para: vendas@test.com,
+Assunto: Lead Aceito
+====================
+[Email Simulado]
+Para: vendas@test.com,
+Assunto: Lead Aceito
+====================
+[Email Simulado]
+Para: vendas@test.com,
+Assunto: Lead Aceito
+====================

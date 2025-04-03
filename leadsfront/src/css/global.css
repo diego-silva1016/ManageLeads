@@ -3,7 +3,15 @@
     padding: 0;
 }
 
+:root {
+    --primary-color: orange;
+    --white-color: #fff;
+    --background-color: #d3d1d1;
+    --text-color: rgb(145, 139, 139);
+    --border-color: rgb(252, 248, 248);
+  }
+
 hr {
-    border-color: rgb(252, 248, 248);
+    border-color: var(--border-color);
 }
 

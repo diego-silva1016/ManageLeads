@@ -36,7 +36,7 @@ function LeadCard({ lead, isAcceptedList, refetch }: LeadCardProps) {
     }
 
     return (
-        <Container style={{ marginBottom: '2rem', padding: '2rem', background: '#fff' }}>
+        <Container style={{ marginBottom: '2rem', padding: '2rem', background: 'var(--white-color)' }}>
             <section className='profile'>
                 <div className='iconName'>{lead.firstName.charAt(0).toLocaleUpperCase()}</div>
                 <div className='profileInfo'>
@@ -72,7 +72,7 @@ function LeadCard({ lead, isAcceptedList, refetch }: LeadCardProps) {
                     <hr />
 
                     <section className='action'>
-                        <button onClick={handleAccept} style={{ background: 'orange', color: '#fff' }} >Accept</button>
+                        <button onClick={handleAccept} style={{ background: 'var(--primary-color)', color: 'var(--white-color)' }} >Accept</button>
                         <button onClick={handleDecline}>Decline</button>
                         <span><strong>${lead.price.toFixed(2)}</strong>Lead Invitation</span>
                     </section>

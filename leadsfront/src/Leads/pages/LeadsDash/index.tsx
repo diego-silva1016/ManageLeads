@@ -16,11 +16,11 @@ function LeadsDash() {
     ]
 
     return (
-        <div style={{ height: '100vh', backgroundColor: '#d3d1d1', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+        <div style={{ height: '100vh', backgroundColor: 'var(--background-color)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
             <Container style={{ height: '40rem', overflow: 'auto' }}>
                 <Tab
                     menu={{
-                        style: { background: '#fff' },
+                        style: { background: 'var(--white-color)' },
                         color: 'orange',
                         secondary: true,
                         pointing: true,
