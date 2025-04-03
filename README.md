@@ -41,15 +41,10 @@ Certifique-se de ter instalado:
 #### 🔹 Backend (.NET)
 1. Acesse a pasta LeadsApi:
    ```sh
-   cd LeadsApi
+   cd LeadsApi/LeadsApi
    ```
-2. Instale as dependências:
+2. Execute a aplicação:
    ```sh
-   dotnet restore
-   ```
-3. Execute a aplicação:
-   ```sh
-   cd LeadsApi
    dotnet run
    ```
 
