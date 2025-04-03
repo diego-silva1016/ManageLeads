@@ -1,0 +1,1 @@
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8662A4E-445E-48F2-AAB9-B3D00C14A0A3}|LeadsApi\\Leads.Api.csproj|c:\\users\\diego\\onedrive\\\u00E1rea de trabalho\\leadproject\\leadsapi\\leadsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8662A4E-445E-48F2-AAB9-B3D00C14A0A3}|LeadsApi\\Leads.Api.csproj|solutionrelative:leadsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\diego\\onedrive\\\u00E1rea de trabalho\\leadproject\\leadsapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|c:\\users\\diego\\onedrive\\\u00E1rea de trabalho\\leadproject\\leadsapi\\infrastructure\\migrations\\20250403045608_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250403045608_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8662A4E-445E-48F2-AAB9-B3D00C14A0A3}|LeadsApi\\Leads.Api.csproj|c:\\users\\diego\\onedrive\\\u00E1rea de trabalho\\leadproject\\leadsapi\\leadsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8662A4E-445E-48F2-AAB9-B3D00C14A0A3}|LeadsApi\\Leads.Api.csproj|solutionrelative:leadsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B4DF154-04E6-47FD-8ABC-EEBBA0564A94}|Infrastructure\\Leads.Infrastructure.csproj|c:\\users\\diego\\onedrive\\\u00E1rea de trabalho\\leadproject\\leadsapi\\infrastructure\\entities\\leadentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\LeadsApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "LeadsApi\\appsettings.Development.json",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20250403045608_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\Infrastructure\\Migrations\\20250403045608_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250403045608_InitialCreate.cs",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -113,6 +113,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-04-03T02:22:41.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\LeadsApi\\Program.cs",
+              "RelativeDocumentMoniker": "LeadsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\LeadsApi\\Program.cs",
+              "RelativeToolTip": "LeadsApi\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:42:05.668Z",
               "EditorCaption": ""
             },
             {
@@ -141,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
@@ -154,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\launchSettings.json",
               "RelativeDocumentMoniker": "launchSettings.json",
@@ -164,18 +177,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-03T02:22:34.627Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\LeadsApi\\Program.cs",
-              "RelativeDocumentMoniker": "LeadsApi\\Program.cs",
-              "ToolTip": "C:\\Users\\diego\\OneDrive\\\u00C1rea de Trabalho\\LeadProject\\LeadsApi\\LeadsApi\\Program.cs",
-              "RelativeToolTip": "LeadsApi\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowDcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T03:42:05.668Z"
             },
             {
               "$type": "Document",
