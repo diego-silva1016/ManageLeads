@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj": {}
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj": {
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj",
         "projectName": "Leads.Domain",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj",
+        "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

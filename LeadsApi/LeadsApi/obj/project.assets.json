@@ -5377,11 +5377,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\LeadsApi\\LeadsApi\\Leads.Api.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\LeadsApi\\Leads.Api.csproj",
       "projectName": "Leads.Api",
-      "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\LeadsApi\\Leads.Api.csproj",
+      "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\LeadsApi\\Leads.Api.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\LeadsApi\\obj\\",
+      "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\LeadsApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5402,11 +5402,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj"
+            "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj"
             },
-            "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Leads.Application.csproj": {
-              "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Leads.Application.csproj"
+            "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Leads.Application\\Leads.Application.csproj": {
+              "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Leads.Application\\Leads.Application.csproj"
             }
           }
         }

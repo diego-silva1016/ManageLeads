@@ -9,3 +9,15 @@ C:\Users\diego\source\repos\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.dll
 C:\Users\diego\source\repos\LeadsApi\Domain\obj\Debug\net8.0\refint\Leads.Domain.dll
 C:\Users\diego\source\repos\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.pdb
 C:\Users\diego\source\repos\LeadsApi\Domain\obj\Debug\net8.0\ref\Leads.Domain.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\bin\Debug\net8.0\Leads.Domain.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\bin\Debug\net8.0\Leads.Domain.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\bin\Debug\net8.0\Leads.Domain.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.sourcelink.json
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\refint\Leads.Domain.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\Leads.Domain.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Domain\obj\Debug\net8.0\ref\Leads.Domain.dll

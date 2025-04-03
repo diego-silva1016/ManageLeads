@@ -13,3 +13,19 @@ C:\Users\diego\source\repos\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Ap
 C:\Users\diego\source\repos\LeadsApi\Leads.Application\obj\Debug\net8.0\refint\Leads.Application.dll
 C:\Users\diego\source\repos\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.pdb
 C:\Users\diego\source\repos\LeadsApi\Leads.Application\obj\Debug\net8.0\ref\Leads.Application.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\bin\Debug\net8.0\Leads.Application.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\bin\Debug\net8.0\Leads.Application.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\bin\Debug\net8.0\Leads.Application.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\bin\Debug\net8.0\Leads.Domain.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\bin\Debug\net8.0\Leads.Domain.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.sourcelink.json
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Ap.0B271B2B.Up2Date
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\refint\Leads.Application.dll
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\Leads.Application.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\LeadProject\LeadsApi\Leads.Application\obj\Debug\net8.0\ref\Leads.Application.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj": {}
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj": {
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj",
         "projectName": "Leads.Domain",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj",
+        "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj": {
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj",
         "projectName": "Leads.Infrastructure",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Infrastructure\\Leads.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Leads.Application.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Leads.Application.csproj"
+              "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Leads.Application\\Leads.Application.csproj": {
+                "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Leads.Application\\Leads.Application.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Leads.Application.csproj": {
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Leads.Application\\Leads.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Leads.Application.csproj",
+        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Leads.Application\\Leads.Application.csproj",
         "projectName": "Leads.Application",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\Leads.Application.csproj",
+        "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Leads.Application\\Leads.Application.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Leads.Application\\obj\\",
+        "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Leads.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -182,8 +182,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\LeadsApi\\Domain\\Leads.Domain.csproj"
+              "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj": {
+                "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\LeadProject\\LeadsApi\\Domain\\Leads.Domain.csproj"
               }
             }
           }

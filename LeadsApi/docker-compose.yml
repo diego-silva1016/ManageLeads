@@ -10,12 +10,6 @@ services:
       MSSQL_DATABASE: "ManageLeads"
     restart: always
 
-  leads.api:
-    image: ${DOCKER_REGISTRY-}leadsapi
-    build:
-      context: .
-      dockerfile: LeadsApi/Dockerfile
-    depends_on:
-      - sqlserver
+
 
 
